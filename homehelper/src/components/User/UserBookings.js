@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import Navbar from "./UserNavbar";
 import { Card, Button, Container, Row, Col } from "react-bootstrap";
+import { baseUrl } from "../baseUrl";
 
 const UserBookings = () => {
     const [bookings, setBookings] = useState([]);
@@ -17,7 +18,7 @@ const UserBookings = () => {
 
     useEffect(() => {
         if (userId) {
-            axios.get(`https://localhost:44345/api/Booking/user-bookings/${userId}`)
+            axios.get(`${baseUrl}/api/Booking/user-bookings/${userId}`)
                 .then(response => setBookings(response.data))
                 .catch(error => console.error("Error fetching bookings:", error));
         }
@@ -60,7 +61,7 @@ const UserBookings = () => {
                 };
         
                 try {
-                    const paymentRes = await axios.get(`https://localhost:44345/api/payments/process/${booking.id}`, );
+                    const paymentRes = await axios.get(`${baseUrl}/api/payments/process/${booking.id}`, );
                     setRun((run) => run + 1);
                     alert("Payment successful!");
                 } catch (error) {
@@ -86,7 +87,7 @@ const UserBookings = () => {
 
     const cancelBooking = async (booking) => {
         try{
-            const response = await axios.delete(`https://localhost:44345/api/booking/${booking.id}`); 
+            const response = await axios.delete(`${baseUrl}/api/booking/${booking.id}`); 
             setRun((run) => run + 1);
         }
         catch(error)

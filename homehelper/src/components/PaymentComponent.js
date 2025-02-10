@@ -1,5 +1,6 @@
 import React from "react";
 import axios from "axios";
+import { baseUrl } from "./baseUrl";
 
 const PaymentComponent = ({ worker }) => {
   const userId = localStorage.getItem("id");
@@ -32,7 +33,7 @@ const PaymentComponent = ({ worker }) => {
         };
 
         try {
-          const res = await axios.post("https://localhost:44345/api/payments/process", paymentData);
+          const res = await axios.post(`${baseUrl}/api/payments/process`, paymentData);
           if (res.data.success) {
             alert("Payment successful!");
             window.location.href = "/user-dashboard";

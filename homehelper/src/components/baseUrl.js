@@ -1,0 +1,1 @@
+export const baseUrl = "http://homehelper.eu-north-1.elasticbeanstalk.com"

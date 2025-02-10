@@ -1,9 +1,10 @@
 import { useState } from "react";
 import axios from "axios";
-import { Link } from "react-router-dom"; // 👈 Import Link for navigation
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom"; // 👈 Import Link and useNavigate for navigation
+import { baseUrl } from "../baseUrl";
+
 const SignupFormUser = () => {
-    const navigate = useNavigate();
+  const navigate = useNavigate();
   const [formData, setFormData] = useState({
     name: "",
     mobileNo: "",
@@ -22,9 +23,11 @@ const SignupFormUser = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post("https://localhost:44345/api/users/signup", formData);
+      const response = await axios.post(`${baseUrl}/api/users/signup`, formData);
       setSuccess(response.data.message);
       setError("");
+      // Navigate to the login page after successful signup
+      navigate("/login");
     } catch (error) {
       setError(error.response?.data?.message || "Error signing up.");
       setSuccess("");
@@ -93,13 +96,9 @@ const SignupFormUser = () => {
               style={styles.input}
             />
           </div>
-          <button 
-      type="submit" 
-      style={styles.button} 
-      onClick={() => navigate("/login")} // Redirect on click
-    >
-      Signup
-    </button>
+          <button type="submit" style={styles.button}>
+            Signup
+          </button>
         </form>
         <p style={styles.loginText}>
           Already have an account? <Link to="/login" style={styles.loginLink}>Login</Link>

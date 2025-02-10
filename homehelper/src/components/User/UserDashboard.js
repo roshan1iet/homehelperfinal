@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import Navbar from "./UserNavbar";
 import axios from "axios";
 import { Button } from "react-bootstrap";
+import { baseUrl } from "../baseUrl";
 
 const professions = [
   { name: "Sweeping", 
@@ -34,7 +35,7 @@ const UserDashboard = () => {
 
   useEffect(() => {
     if (selectedProfession) {
-      fetch(`https://localhost:44345/api/workers?profession=${selectedProfession.name}`)
+      fetch(`${baseUrl}/api/workers?profession=${selectedProfession.name}`)
         .then((response) => response.json())
         .then((data) => setWorkers(data))
         .catch((error) => console.error("Error fetching workers:", error));
@@ -56,7 +57,7 @@ const UserDashboard = () => {
     e.preventDefault();
     const userId = localStorage.getItem("userid");
     try{
-      const response = await axios.post(`https://localhost:44345/api/workers/book`, {...bookingDetails, userId});
+      const response = await axios.post(`${baseUrl}/api/workers/book`, {...bookingDetails, userId});
       // Set booking request as sent
       if(response.status === 200) {
         console.log(response.data);

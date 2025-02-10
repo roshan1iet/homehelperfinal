@@ -1,5 +1,6 @@
 import React from "react";
 import axios from "axios";
+import { baseUrl } from "../baseUrl";
 
 const PaymentPage = ({ bookingId, workerId, address, mobile }) => {
   const userId = localStorage.getItem("id");
@@ -36,7 +37,7 @@ const PaymentPage = ({ bookingId, workerId, address, mobile }) => {
         };
 
         try {
-          await axios.post("https://localhost:44345/api/payments", paymentData);
+          await axios.post(`${baseUrl}/api/payments`, paymentData);
           alert("Payment Successful and Saved to Database");
         } catch (error) {
           console.error("Error saving payment:", error);

@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
+import { baseUrl } from "../baseUrl";
 
 const WorkerForm = () => {
   const [formData, setFormData] = useState({
@@ -40,7 +41,7 @@ const WorkerForm = () => {
     formDataToSend.append("aadhaar_image", formData.aadhaar_image);
 
     try {
-      await axios.post("http://localhost:5000/api/worker/details", formDataToSend, {
+      await axios.post(`${baseUrl}/api/worker/details`, formDataToSend, {
         headers: { "Content-Type": "multipart/form-data" },
       });
       alert("Details submitted successfully!");

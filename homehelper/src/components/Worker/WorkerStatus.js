@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
+import { baseUrl } from "../baseUrl";
 
 const WorkerStatus = () => {
   const [status, setStatus] = useState("Available");
@@ -8,7 +9,7 @@ const WorkerStatus = () => {
   useEffect(() => {
     const fetchStatus = async () => {
       try {
-        const res = await axios.get(`http://localhost:5000/api/workers/status/${workerId}`);
+        const res = await axios.get(`${baseUrl}/api/workers/status/${workerId}`);
         setStatus(res.data.status);
       } catch (error) {
         console.error("Error fetching worker status", error);

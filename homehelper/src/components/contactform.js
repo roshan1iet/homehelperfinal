@@ -1,5 +1,6 @@
 import { useState } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
+import { baseUrl } from "./baseUrl";
 
 function ContactForm() {
   const [formData, setFormData] = useState({
@@ -21,7 +22,7 @@ function ContactForm() {
     setStatus("Sending...");
 
     try {
-      const response = await fetch("https://localhost:44345/api/contact", {
+      const response = await fetch(`${baseUrl}/api/contact`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(formData)

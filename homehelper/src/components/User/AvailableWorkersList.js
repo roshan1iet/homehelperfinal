@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
+import { baseUrl } from "../baseUrl";
 
 const AvailableWorkersList = () => {
   const [workers, setWorkers] = useState([]);
@@ -13,7 +14,7 @@ const AvailableWorkersList = () => {
   useEffect(() => {
     const fetchWorkers = async () => {
       try {
-        const res = await axios.get("https://localhost:44345/api/workers/available");
+        const res = await axios.get(`${baseUrl}/api/workers/available`);
         setWorkers(res.data);
       } catch (error) {
         console.error("Error fetching workers", error);
@@ -41,7 +42,7 @@ const AvailableWorkersList = () => {
   
     try {
       // Step 1: Make sure booking is created successfully
-      const bookingRes = await axios.post("https://localhost:44345/api/bookings/create", {
+      const bookingRes = await axios.post(`${baseUrl}/api/bookings/create`, {
         userId,
         workerId: selectedWorker.id,
         address: formData.address,
@@ -82,7 +83,7 @@ const AvailableWorkersList = () => {
           };
   
           try {
-            const paymentRes = await axios.post("https://localhost:44345/api/payments/process", paymentPayload);
+            const paymentRes = await axios.post(`${baseUrl}/api/payments/process`, paymentPayload);
             if (paymentRes.data.success) {
               alert("Payment successful!");
               window.location.href = "/user-dashboard";

@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
+import { baseUrl } from '../baseUrl';
 
 const WorkerSignup = () => {
     const navigate = useNavigate();
@@ -55,7 +56,7 @@ const WorkerSignup = () => {
         
         if (!validateForm()) return; // Stop submission if validation fails
 
-        const response = await fetch('https://localhost:44345/api/workers/signup', {
+        const response = await fetch(`${baseUrl}/api/workers/signup`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(worker)

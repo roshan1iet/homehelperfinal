@@ -3,6 +3,7 @@ import axios from "axios";
 import WorkerNavbar from "./WorkerNavbar";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { FaUser, FaPhone, FaMapMarkerAlt, FaCreditCard, FaRupeeSign } from "react-icons/fa";
+import { baseUrl } from "../baseUrl";
 
 const WorkerBookings = () => {
   const [bookings, setBookings] = useState([]);
@@ -10,7 +11,7 @@ const WorkerBookings = () => {
 
   useEffect(() => {
     if (workerId) {
-      axios.get(`https://localhost:44345/api/workers/worker/${workerId}`)
+      axios.get(`${baseUrl}/api/workers/worker/${workerId}`)
         .then(response => {
           console.log("API Response:", response.data);
           setBookings(response.data);

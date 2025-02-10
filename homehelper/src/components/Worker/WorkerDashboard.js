@@ -3,6 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Navbar from "./WorkerNavbar";
 import axios from "axios";
 import { Button, Card, Col, Container, Row } from "react-bootstrap";
+import { baseUrl } from "../baseUrl";
 
 function WorkerDashboard() {
   const [isAvailable, setIsAvailable] = useState(false);
@@ -13,7 +14,7 @@ function WorkerDashboard() {
   useEffect(() => {
     if(workerId) {
       const asyncFunction = async () => {
-        const response = await axios.get(`https://localhost:44345/api/workers/getPendingRequests/${workerId}`);
+        const response = await axios.get(`${baseUrl}/api/workers/getPendingRequests/${workerId}`);
         setBookings(response.data);
       }
       asyncFunction();
@@ -27,7 +28,7 @@ function WorkerDashboard() {
 
     // API call to update the worker's availability status in the database
     try {
-      const response = await fetch("https://localhost:44345/api/workers/updateAvailability", {
+      const response = await fetch(`${baseUrl}/api/workers/updateAvailability`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ workerId, availability: newStatus })

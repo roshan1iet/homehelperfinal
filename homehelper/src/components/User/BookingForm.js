@@ -1,5 +1,6 @@
 import { useState } from "react";
 import axios from "axios";
+import { baseUrl } from "../baseUrl";
 
 const BookingForm = ({ worker, onPayment }) => {
   const [formData, setFormData] = useState({
@@ -25,7 +26,7 @@ const BookingForm = ({ worker, onPayment }) => {
     // console.log("User ID before sending:", userIdInt); // Debugging ke liye
   
     try {
-      const res = await axios.post("https://localhost:44345/api/bookings/create", {
+      const res = await axios.post(`${baseUrl}/api/bookings/create`, {
        
         workerId: worker.id,
         address: formData.address,
