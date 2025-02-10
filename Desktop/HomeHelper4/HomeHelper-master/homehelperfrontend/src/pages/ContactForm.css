@@ -1,0 +1,77 @@
+/* src/components/ContactForm.css */
+
+body {
+    background-color: #e9ecef; /* Light gray background for the entire page */
+    font-family: 'Arial', sans-serif; /* Set a clean font for the page */
+}
+
+.contact-container {
+    margin-top: 80px; /* Adjust this value based on the height of your navbar */
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center align the content */
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 40px; /* Increased padding for a more spacious feel */
+    background-color: #ffffff; /* White background for the form */
+    border-radius: 10px; /* Slightly more rounded corners */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Deeper shadow for a floating effect */
+    transition: transform 0.3s; /* Smooth transition for hover effect */
+}
+
+.contact-form:hover {
+    transform: translateY(-5px); /* Lift the form slightly on hover */
+}
+
+h1 {
+    text-align: center; /* Center the heading */
+    color: #343a40; /* Dark gray color for the heading */
+    margin-bottom: 20px; /* Space below the heading */
+}
+
+.form-input,
+.form-textarea {
+    margin-bottom: 20px; /* Increased space between inputs */
+    padding: 12px; /* Increased padding for better touch targets */
+    border: 1px solid #ced4da; /* Light gray border */
+    border-radius: 5px;
+    font-size: 16px;
+    transition: border-color 0.3s; /* Smooth transition for border color */
+}
+
+.form-input:focus,
+.form-textarea:focus {
+    border-color: #007bff; /* Blue border on focus */
+    outline: none; /* Remove default outline */
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Blue shadow on focus */
+}
+
+.form-textarea {
+    resize: none; /* Prevent resizing of the textarea */
+    height: 100px; /* Set a fixed height for the textarea */
+}
+
+.submit-button {
+    padding: 12px; /* Increased padding for the button */
+    background-color: #007bff; /* Primary blue color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px; /* Slightly larger font size */
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s; /* Smooth transition for hover effects */
+}
+
+.submit-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+    transform: translateY(-2px); /* Lift the button slightly on hover */
+}
+
+.submit-button:active {
+    transform: translateY(0); /* Reset lift effect when button is pressed */
+}
