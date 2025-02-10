@@ -1,0 +1,189 @@
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\appsettings.json
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\HomeHelper.staticwebassets.endpoints.json
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\HomeHelper.exe
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\HomeHelper.deps.json
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\HomeHelper.runtimeconfig.json
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\HomeHelper.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\HomeHelper.pdb
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\obj\Debug\net6.0\HomeHelper.csproj.AssemblyReference.cache
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\obj\Debug\net6.0\HomeHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\obj\Debug\net6.0\HomeHelper.AssemblyInfoInputs.cache
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\obj\Debug\net6.0\HomeHelper.AssemblyInfo.cs
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\obj\Debug\net6.0\HomeHelper.csproj.CoreCompileInputs.cache
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\obj\Debug\net6.0\HomeHelper.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\obj\Debug\net6.0\HomeHelper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\obj\Debug\net6.0\scopedcss\bundle\HomeHelper.styles.css
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\obj\Debug\net6.0\staticwebassets\msbuild.HomeHelper.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\obj\Debug\net6.0\staticwebassets\msbuild.HomeHelper.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\obj\Debug\net6.0\staticwebassets\msbuild.build.HomeHelper.props
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HomeHelper.props
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HomeHelper.props
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\obj\Debug\net6.0\HomeHelper.csproj.Up2Date
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\obj\Debug\net6.0\HomeHelper.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\obj\Debug\net6.0\refint\HomeHelper.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\obj\Debug\net6.0\HomeHelper.pdb
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\obj\Debug\net6.0\HomeHelper.genruntimeconfig.cache
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\obj\Debug\net6.0\ref\HomeHelper.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Sarthak\OneDrive\Desktop\.Net\HomeHelper\HomeHelper\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\appsettings.json
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\HomeHelper.staticwebassets.endpoints.json
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\HomeHelper.exe
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\HomeHelper.deps.json
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\HomeHelper.runtimeconfig.json
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\HomeHelper.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\HomeHelper.pdb
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\HomeHelper.csproj.AssemblyReference.cache
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\HomeHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\HomeHelper.AssemblyInfoInputs.cache
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\HomeHelper.AssemblyInfo.cs
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\HomeHelper.csproj.CoreCompileInputs.cache
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\HomeHelper.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\HomeHelper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\HomeHelper.sourcelink.json
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\scopedcss\bundle\HomeHelper.styles.css
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\staticwebassets\msbuild.HomeHelper.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\staticwebassets\msbuild.HomeHelper.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\staticwebassets\msbuild.build.HomeHelper.props
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HomeHelper.props
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HomeHelper.props
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\HomeHelper.csproj.Up2Date
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\HomeHelper.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\refint\HomeHelper.dll
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\HomeHelper.pdb
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\HomeHelper.genruntimeconfig.cache
+C:\Users\Roshan Sadmek\Desktop\HomeHelper_backend\HomeHelper_backend-master\HomeHelper\obj\Debug\net6.0\ref\HomeHelper.dll
